@@ -45,15 +45,6 @@
 - Contribuir para projetos open source
 
 ---
-
-<div align="center">
-
-### ⭐ Obrigado por visitar meu perfil!
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:008F6B&height=120&section=footer"/>
-
-</div>
-
 ## 🌐 Redes Sociais
 
 <div align="center">
@@ -63,4 +54,15 @@
 </a>
 
 </div>
+---
+
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:008F6B&height=120&section=footer"/>
+
+</div>
+
+
 
