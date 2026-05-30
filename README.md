@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Luizv151/Luizv151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:008F6B&height=120&section=header"/>
 
-Here are some ideas to get you started:
+# Olá, eu sou Luiz 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Desenvolvedor Python
+
+📍 Brasil
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 📚 Estudando programação e desenvolvimento de software
+- 🐍 Focado em Python
+- 🚀 Sempre buscando aprender novas tecnologias
+- 💡 Gosto de criar projetos para praticar e evoluir minhas habilidades
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github"/>
+
+</div>
+
+---
+
+## 📈 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Objetivos
+
+- Aprender cada vez mais sobre Python
+- Desenvolver projetos completos
+- Construir um portfólio profissional
+- Contribuir para projetos open source
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:008F6B&height=120&section=footer"/>
+
+</div>
