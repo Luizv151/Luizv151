@@ -4,7 +4,7 @@
 
 # Olá, eu sou Luiz 👋
 
-### 🐍 Desenvolvedor Python
+### 🐍 Desenvolvedor Python e Backend
 
 📍 Brasil
 
@@ -15,7 +15,7 @@
 ## 👨‍💻 Sobre mim
 
 - 📚 Estudando programação e desenvolvimento de software
-- 🐍 Focado em Python
+- 🐍 Focado mais em Python mas quero aprender outras linguagems
 - 🚀 Sempre buscando aprender novas tecnologias
 - 💡 Gosto de criar projetos para praticar e evoluir minhas habilidades
 
