@@ -39,7 +39,7 @@
 
 ## 🎯 Objetivos
 
-- Aprender cada vez mais sobre Python
+- Aprender cada vez mais sobre Python e outras linguagens
 - Desenvolver projetos completos
 - Construir um portfólio profissional
 - Contribuir para projetos open source
