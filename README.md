@@ -69,3 +69,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:008F6B&height=120&section=footer"/>
 
 </div>
+
+## 🌐 Redes Sociais
+
+<div align="center">
+
+<a href="https://www.instagram.com/luiz_otavio187/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
